@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3qVanv9rEwJW9HPPouA3LzhkoUC5BbAGttt7H6d5g0+wBPnTfKDyPynj5KHHfJvxzUEyj82qGIayIC7ZEMEpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dominik\\source\\repos\\Wykrywanie Dłoni\\Wykrywanie dłoni\\Wykrywanie dłoni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik\\.nuget\\packages\\emgu.cv\\4.5.1.4349\\emgu.cv.4.5.1.4349.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\emgu.cv.bitmap\\4.4.0.4061\\emgu.cv.bitmap.4.4.0.4061.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\emgu.cv.models\\4.6.0.5131\\emgu.cv.models.4.6.0.5131.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\emgu.cv.runtime.windows\\4.4.0.4061\\emgu.cv.runtime.windows.4.4.0.4061.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\emgu.cv.ui\\4.6.0.5131\\emgu.cv.ui.4.6.0.5131.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\opentk\\1.1.2225\\opentk.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\opentk.glcontrol\\1.1.2225\\opentk.glcontrol.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wykryta wersja pakietu jest poza ograniczeniami zależności: element Emgu.CV.Bitmap 4.4.0.4061 wymaga wersji Emgu.CV (>= 4.4.0 && < 4.4.1), ale rozpoznano wersję Emgu.CV 4.5.1.4349.",
+      "libraryId": "Emgu.CV",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wykryta wersja pakietu jest poza ograniczeniami zależności: element Emgu.CV.runtime.windows 4.4.0.4061 wymaga wersji Emgu.CV (>= 4.4.0 && < 4.4.1), ale rozpoznano wersję Emgu.CV 4.5.1.4349.",
+      "libraryId": "Emgu.CV",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wykryto obniżenie wersji pakietu: Emgu.CV z 4.6.0.5131 na 4.5.1.4349. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n Wykrywanie dłoni -> Emgu.CV.Models 4.6.0.5131 -> Emgu.CV (>= 4.6.0.5131) \r\n Wykrywanie dłoni -> Emgu.CV (>= 4.5.1.4349)",
+      "libraryId": "Emgu.CV",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wykryto obniżenie wersji pakietu: Emgu.CV.Bitmap z 4.6.0.5131 na 4.4.0.4061. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n Wykrywanie dłoni -> Emgu.CV.UI 4.6.0.5131 -> Emgu.CV.Bitmap (>= 4.6.0.5131) \r\n Wykrywanie dłoni -> Emgu.CV.Bitmap (>= 4.4.0.4061)",
+      "libraryId": "Emgu.CV.Bitmap",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\concrt140.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\cvextern.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\msvcp140.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\msvcp140_1.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\msvcp140_2.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\vcruntime140.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\concrt140.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\cvextern.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\msvcp140.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\msvcp140_1.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\msvcp140_2.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\x86\vcruntime140.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Wykrywanie dłoni.exe.config
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Wykrywanie dłoni.exe
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Wykrywanie dłoni.pdb
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Emgu.CV.Models.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\OpenTK.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\System.Drawing.Common.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\bin\Debug\ZedGraph.dll
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.csproj.AssemblyReference.cache
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.exe.config
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie_dłoni.Form1.resources
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie_dłoni.Properties.Resources.resources
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.csproj.CopyComplete
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.exe
+C:\Users\Dominik\source\repos\Wykrywanie Dłoni\Wykrywanie dłoni\obj\Debug\Wykrywanie dłoni.pdb
